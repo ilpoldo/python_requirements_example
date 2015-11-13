@@ -1,0 +1,2 @@
+[example.ep]
+core = foo:foofy
